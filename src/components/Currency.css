@@ -1,0 +1,12 @@
+#currency{
+    margin-left: 1rem ;
+    background-color:#6fee7d;
+    color:black;
+}
+.hoverOpt{
+    background-color:#6fee7d;
+    color:black;
+}
+.hoverOpt:hover{
+    background-color:white !important;
+}
